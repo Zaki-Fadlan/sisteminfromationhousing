@@ -1,2 +1,4 @@
-package com.banyuherangregency.sisteminfromationhousing.repository;public class trygit {
+package com.banyuherangregency.sisteminfromationhousing.repository;
+
+public class trygit {
 }
